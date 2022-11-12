@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### 안녕하세요. `올바른 성장을 하고싶은` 개발자 강서현입니다. 👋
+> 제가 생각하는 올바른 성장이란, 자신의 실력에 대해 하나의 거짓없이 오직 진실된 모습으로 성장하는 것입니다.   
+> 제 실력을 스스로 속이는 것이 아닌, 항상 배움에 대한 열정과 겸손함을 가지고 정진하겠습니다.
 <!--
 **KangSeoHyun403/KangSeoHyun403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
